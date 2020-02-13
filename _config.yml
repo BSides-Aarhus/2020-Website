@@ -1,8 +1,8 @@
-title: BSides Aarhus 2020 Conference
+title: Your Title
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://2020.bsidesaar.dk" # the base hostname & protocol for your site
+url: "Your-Link.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -12,8 +12,8 @@ facebook:
 logo: "../css/2020_style/img/icon-large.png"
 
 social: 
-  name: Twitter profile
-  link: "https://twitter.com/BSidesAAR"
+  name: Your Facebook Page
+  link: "https://www.facebook.com/"
 
 google_site_verification: googleac29869159bdf7d6.html
 
@@ -25,10 +25,10 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: facebook
+    url: https://www.facebook.com
   - title: twitter
-    url: https://twitter.com/BSidesAAR
-  - title: linkedin
-    url: https://www.linkedin.com/company/bsidesaar
+    url: https://twitter.com
 
 # Build settings
 markdown: kramdown
