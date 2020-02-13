@@ -1,1 +1,33 @@
-theme: jekyll-theme-hacker
+title: BSides Aarhus 2020 Conference
+description: > # this means to ignore newlines until "baseurl:"
+  Your description
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://2020.bsidesaar.dk" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+
+facebook:
+  app_id: 
+
+logo: "../css/20120_style/img/icon-large.png"
+
+social: 
+  name: Twitter profile
+  link: "https://twitter.com/BSidesAAR"
+
+google_site_verification: googleac29869159bdf7d6.html
+
+include: ['_2020_pages']
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/BSidesAAR
+
+# Build settings
+markdown: kramdown
+permalink: pretty
