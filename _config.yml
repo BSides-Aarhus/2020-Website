@@ -9,7 +9,7 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "../css/20120_style/img/icon-large.png"
+logo: "../css/2020_style/img/icon-large.png"
 
 social: 
   name: Twitter profile
@@ -27,6 +27,8 @@ plugins:
 social:
   - title: twitter
     url: https://twitter.com/BSidesAAR
+  - title: linkedin
+    url: https://www.linkedin.com/company/bsidesaar
 
 # Build settings
 markdown: kramdown
