@@ -2,7 +2,7 @@ title: BSides Aarhus 2020 Conference
 description: > # this means to ignore newlines until "baseurl:"
   A conference that might just be coming to a central location near you in the Summer of 2020.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://2020.bsidesaar.dk" # the base hostname & protocol for your site
+url: "https://2020.bsidesaarhus.dk" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
