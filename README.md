@@ -1,8 +1,4 @@
-## Welcome to 2020 conference page!
+## Welcome to 2025 Kickoff conference page!
 
 **Main site**
-- [BSides Aarhus](https://bsidesaar.dk)
-
-**Conference sites**
-- [BSides Aarhus 2020 Conference](https://2020.bsidesaar.dk)
-
+- [BSides Aarhus](https://bsidesaarhus.dk)
