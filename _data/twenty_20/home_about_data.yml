@@ -10,13 +10,13 @@
   info: Check out the agenda
   link: /agenda
 
-- inverted: timeline-inverted
+- inverted: 
   img: icon-venue.jpeg
   name: Venue
   info: Learn more about our location
   link: /venue
 
-- inverted: 
+- inverted: timeline-inverted
   img: icon-faq.jpeg
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
