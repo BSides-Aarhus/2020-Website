@@ -1,4 +1,10 @@
 
+- inverted: 
+  img: icon-team.jpeg
+  name: Call for Speakers
+  info: Call closes 20th May 2025.
+  link: https://sessionize.com/bsides-aarhus
+
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
