@@ -1,6 +1,6 @@
 title: BSides Aarhus Conference
 description: > # this means to ignore newlines until "baseurl:"
-  A conference that might just be coming to a central location near you in the Summer of 2020.
+  A conference that might just be coming to a central location near you in the Summer of 2025.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bsidesaarhus.dk" # the base hostname & protocol for your site
 # Build settings
@@ -13,7 +13,7 @@ logo: "../css/2020_style/img/icon-large.png"
 
 social: 
   name: LinkedIn
-  link: "https://www.linkedin.com/company/bsidesaar/"
+  link: "https://www.linkedin.com/company/bsides-aarhus/"
 
 #google_site_verification: googleac29869159bdf7d6.html
 
