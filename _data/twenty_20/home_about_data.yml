@@ -1,8 +1,3 @@
-- inverted: 
-  img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
-  link: https://github.com/BSides-Aarhus/BSides-Aarhus-Association
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
@@ -21,3 +16,9 @@
   name: FAQs
   info: Have a Question? Many answers can be found right here in our FAQs
   link: /faqs
+
+  - inverted: 
+  img: icon-about.jpeg
+  name: The BSides Aarhus Association
+  info: Read more about BSides Aarhus Association.
+  link: https://github.com/BSides-Aarhus/BSides-Aarhus-Association
