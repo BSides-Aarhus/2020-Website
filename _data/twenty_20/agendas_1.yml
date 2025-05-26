@@ -4,7 +4,7 @@
 - time: 09:00 - 09:45
   info: "<u>Title TBA</u><br><b>Name TBA</b><br><i>Position TBA</i><br><br>Topic TBA"
 
-  - time: 09:45 - 10:00
+- time: 09:45 - 10:00
   info: "<u>Break</u>"
   
 - time: 10:00 - 10:45
@@ -30,4 +30,3 @@
   
 - time: 14:45 - 15:45
   info: "<u>Networking Session</u>"
-  
