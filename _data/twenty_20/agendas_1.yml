@@ -1,5 +1,33 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 8:30 - 09:00
+  info: "<u>Morning Networking</u>"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 09:00 - 09:45
+  info: "<u>Title TBA</u><br><b>Name TBA</b><br><i>Position TBA</i><br><br>Topic TBA"
+
+  - time: 09:45 - 10:00
+  info: "<u>Break</u>
+  
+- time: 10:00 - 10:45
+  info: "<u>Title TBA</u><br><b>Name TBA</b><br><i>Position TBA</i><br><br>Topic TBA"
+  
+- time: 10:45 - 11:00
+  info: "<u>Break</u>
+
+- time: 11:00 - 11:45
+  info: "<u>Title TBA</u><br><b>Name TBA</b><br><i>Position TBA</i><br><br>Topic TBA"
+  
+- time: 11:45 - 13:00
+  info: "<u>Lunch and networking</u>
+
+- time: 13:00 - 13:45
+  info: "<u>Title TBA</u><br><b>Name TBA</b><br><i>Position TBA</i><br><br>Topic TBA"
+  
+- time: 13:45 - 14:00
+  info: "<u>Break</u>
+
+- time: 14:00 - 14:45
+  info: "<u>Title TBA</u><br><b>Name TBA</b><br><i>Position TBA</i><br><br>Topic TBA"
+  
+- time: 14:45 - 15:45
+  info: "<u>Networking Session</u>
+  
