@@ -1,14 +1,14 @@
 - time: 8:30 - 09:00
-  info: "<u>Morning Networking</u>"
+  info: "<u>Breakfast & Networking</u>"
 
 - time: 09:00 - 09:45
-  info: "<u>Title TBA</u><br><b>Name TBA</b><br><i>Position TBA</i><br><br>Topic TBA"
+  info: "<u>Through the lens of a threat hunter</u><br><b>Avester Fahimipour</b><br>"
 
 - time: 09:45 - 10:00
   info: "<u>Break</u>"
   
 - time: 10:00 - 10:45
-  info: "<u>Title TBA</u><br><b>Name TBA</b><br><i>Position TBA</i><br><br>Topic TBA"
+  info: "<u>From promises to performance: A critical review of (mostly cloud) WAF solutions</u><br><b>Knud Højgaard</b><br>"
   
 - time: 10:45 - 11:00
   info: "<u>Break</u>"
@@ -17,16 +17,16 @@
   info: "<u>Title TBA</u><br><b>Name TBA</b><br><i>Position TBA</i><br><br>Topic TBA"
   
 - time: 11:45 - 13:00
-  info: "<u>Lunch and networking</u>"
+  info: "<u>Lunch</u>"
 
 - time: 13:00 - 13:45
-  info: "<u>Title TBA</u><br><b>Name TBA</b><br><i>Position TBA</i><br><br>Topic TBA"
+  info: "<u>AuraCast: A Multisensory Proof-of-Concept.to Combat Alert Fatigue in Cybersecurity</u><br><b>Francine Solheim</b><br>"
   
 - time: 13:45 - 14:00
   info: "<u>Break</u>"
 
 - time: 14:00 - 14:45
-  info: "<u>Title TBA</u><br><b>Name TBA</b><br><i>Position TBA</i><br><br>Topic TBA"
+  info: "<u>Wanna play with OT and Cyber Security? Play with Labshock, then</u><br><b>Michael Weng</b><br>"
   
 - time: 14:45 - 15:45
   info: "<u>Networking Session</u>"
