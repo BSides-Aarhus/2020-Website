@@ -33,3 +33,57 @@
   alt: Picture of Francine Solheim
   topic: "Security analysts face a constant deluge of alerts, dashboards, and decision-making pressure, leading to cognitive fatigue and missed anomalies. AuraCast is a proof-of-concept system that reimagines network monitoring through multisensory feedback using sound and light to support analyst awareness without adding complexity or screen time.<br>Developed as part of a master's thesis, AuraCast sonifies intrusion detection system alerts and pairs them with ambient IoT-based lighting (via Philips Hue) to create an intuitive, passive alerting environment. The goal? To reduce the cognitive load on analysts and allow faster, more instinctive responses, especially during high-volume alert scenarios.<br>In this session, I present the motivation behind AuraCast, the technical design of the system, and the results from usability testing conducted with both SOC professionals and IT generalists. I explore how auditory and visual modalities can be meaningfully mapped to security events, and how this prototype performed when evaluated against traditional visual-only setups using NASA-TLX cognitive load assessments, response times, and qualitative feedback.<br>I’ll also discuss the practical, unfiltered challenges of building and testing something experimental, from deployment constraints to user scepticism, and reflect on what it would take to bring a concept like this into production in SOC environments.<br>Whether you're interested in human-centred cybersecurity, creative monitoring solutions, or just want to know what happens when intrusion detection meets MIDI and mood lighting, this session offers a unique angle on how we can support the humans behind the screens."
   description: "I'm a Cybersecurity Consultant with a Master’s degree in Cybersecurity Leadership and a strong technical background. I hold a range of industry certifications, including CompTIA Security+, CySA+, Pentest+, and SecurityX (formerly CASP+), as well as ISC2 SSCP and CC, and Microsoft AZ-500 and SC-300. My work spans vulnerability management, detection engineering, and systems hardening, with a particular interest in practical, scalable solutions for SOC environments. While my thesis involved human testing and cognitive load analysis, my focus has always been on the technical design, implementation, and evaluation of tools that improve detection and reduce noise. I enjoy building things that actually work - and then stress-testing them."
+  
+- title: Jack Fitzsimons
+  name: Jack-Fitzsimons
+  subtitle: Security Consultant at Reversec
+  img: jack-fitzsimons.jpg
+  thumbnail: jack-fitzsimons.jpg
+  alt: Picture of Jack Fitzsimons
+  topic: "Mainframes underpin a lot more of society than we think - banks, airlines, supermarkets, day-to-day card transactions etc. Daily life would become much more inconvenient - or come to a halt entirely, without them. Yet many in the security community know very little about them and/or consider them legacy technology.<br><br>Having started working with mainframes around 2 years ago, I'd like to raise a bit of awareness and share some knowledge of the area.<br><br>This talk will demystify some perceptions and assumptions about mainframes in general, show that they're far from legacy technology, and give some useful advice on what you can do if you find yourself 'in front' of one or just want to explore further."
+  description: "Jack is a security consultant at Reversec where he spends the majority of his time doing mainframe and cloud things.<br><br>He has previously given talks at BSides København and Disobey in Helsinki."
+
+- title: Klaus Agnoletti
+  name: Klaus-Agnoletti
+  subtitle: Storytelling Cyber Security Advisor at Relations Security
+  img: klaus-agnoletti.png
+  thumbnail: klaus-agnoletti.png
+  alt: Picture of Klaus Agnoletti
+  topic: "Tired of security training that puts your team to sleep? What if I told you the most powerful training tool in cybersecurity has been sitting in your game room all along? Welcome to the world of game-based learning, where the proven power of play transforms how professionals master complex skills.<br><br>Research shows that humans learn best when working together, yet traditional training methods keep pushing isolated, theoretical learning. Game-based learning flips this approach on its head, creating environments where people forget about office politics and actually engage with the material. Through structured play and collaborative storytelling, participants don't just memorize concepts—they live them, breaking down professional barriers and building genuine understanding through experience.<br><br>I'll show you the compelling evidence behind why using roleplaying games work, and demonstrate how to transform resistant learners into engaged participants. Using compelling examples, you'll discover how tabletop role-playing mechanics can turn your most challenging training scenarios—from incident response to zero trust architecture—into adventures your team actually looks forward to.<br><br>Join me to learn why adding roleplaying games to your professional development isn't just about making training fun—it's about making it work."
+  description: "Klaus Agnoletti has been an all-round infosec professional since 2004. He co-founded BSides København in 2019. Recently he started out as an infosec freelancer focusing on storytelling in marketing, employer branding, game-based learning or wherever new ideas bring him."
+
+- title: Mark Steenberg
+  name: Mark-Steenberg
+  subtitle: Senior consultant at Truesec Denmark
+  img: mark-steenberg.jpg
+  thumbnail: mark-steenberg.jpg
+  alt: Picture of Mark Steenberg
+  topic: "In this talk I will go through how to create your own command and control framework. We will go through architecture, API design, Agent design, and how you could implement this.<br>I'll show examples of how this can be done and share general info and knowledge about considerations for different protocols, infrastructure etc."
+  description: "@Truesec | GCFA | HTB APTLabs, Cybernetics, RastaLabs, Offshore, Dante, Zephyr | eCRE, eCMAPv1, eCPTXv2, eCXD, eCTHPv2, eCDFP, eCIR, eNDP, eWPTXv2, eWDP, eCPPTv2, eWPT, eMAPT, eJPT | CARTP, CRTP | az-900 | CVE-2021-44151, CVE-2021-44152, CVE-2021-44153, CVE-2021-44154, CVE-2021-44155"
+
+- title: Knud Højgaard
+  name: Knud-Hojgaard
+  subtitle: Title
+  img: knud-hojgaard.jpg
+  thumbnail: knud-hojgaard.jpg
+  alt: Picture of Knud Højgaard
+  topic: "Dive into the world of Web Application Firewalls (WAFs), exploring the strengths and limitations of leading providers such as Azure & AWS, as well as some decidedly commercial offerings. Through a detailed evaluation based on a subset of the OWASP Top Ten vulnerabilities, DoS/DDoS protection and AI/ML capabilities, we uncover whether WAF solutions deliver as promised in terms of protecting against common and bespoke web threats. Participants will gain insights into practical recommendations for selecting and deploying WAFs effectively, emphasizing the integration of developer expertise for enhanced security models. A blend of technical analysis and identification of weak areas despite what glossy brochures would have you believe.<br><br>TL;DR: A quick look at what a WAF is, some of the commercial offerings in WAF space, what it can and cannot do for you, some WAF fails"
+  description: "Knud works at Fraktal.fi in the exciting field of information security. Interests and focus areas span wide, from lock manipulation and covert entry to vulnerability discovery and exploit development, usually focused on traversing trust boundaries one way or another. He enjoys popping shells and stealing corporate secrets, with permission naturally."
+
+- title: Martin Clausen
+  name: Martin-Clausen
+  subtitle: Cyber & AI at Jyske Bank
+  img: martin-clausen.JPG
+  thumbnail: martin-clausen.JPG
+  alt: Picture of Martin Clausen
+  topic: "This session shows how to peel back some of the layers of modern Golang-based malware. We’ll start with a lightning refresher on Go’s language quirks and its distinct ELF/PE binary layout, then move into tooling and workflows for reversing. Along the way, you’ll see how dissecting real-world samples yields IOC intelligence and insights that feed blue-team detections, and ultimately flip the advantage from attackers to defenders."
+  description: "Martin is a Cyber & AI specialist at Jyske Bank with 20+ years of experience across blue-team defense, red-team offense, security architecture, and leadership. His driving passion is to rethink security and solve cyber challenges the right way—shifting the asymmetric advantage from attackers to defenders."
+
+- title: Michael Weng
+  name: Michael-Weng
+  subtitle: Senior OT Security Specialist at SektorCERT
+  img: michael-weng.jpg
+  thumbnail: michael-weng.jpg
+  alt: Picture of Michael Weng
+  topic: "Labshock is a newly created OT Cybersecurity lab in Docker, thats easy deployed and immediately get you to play and learn about all things OT/ICS Cybersecurity - We'll go throug deployment and one attack simulation together"
+  description: "Michael is an Experienced OT/ICS Cyber Security Professional. Stated designing and building pharmaceutical manufacturing networks and systems. Later gained Operational experiences which prepared him for the real passion he holds – Protecting OT/ICS. He has had numerus roles as a Senior Principal/Consultants for companies like NCC Group and F-Secure/WithSecure. He served 2 years as the first SE for Nozomi Networks in the Scandic and Baltic Region. Michael’s favourite discipline is Blue Teaming. He believes that defence is doable and now works as a Senior Analyst in the SOC of SektorCERT. He spends time on Alerts, Detection Engineering, Network Forensics, and IR, predominantly. He also oversees Sensor Deployments in a third of the Country (Denmark).<br><br>Michael is an experienced speaker at venues such as S4 in Miami, and CS3 in Stockholm, and ofc at conferences at numerous other places around Europe."
