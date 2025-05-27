@@ -8,25 +8,25 @@
   info: "<u>Break</u>"
   
 - time: 10:00 - 10:45
-  info: "<u><a href="#Knud-Hojgaard" class="speakers-link" data-toggle="modal">From promises to performance: A critical review of (mostly cloud) WAF solutions</a></u><br><b>Knud Højgaard</b><br>"
+  info: '<u><a href="#Knud-Hojgaard" class="speakers-link" data-toggle="modal">From promises to performance: A critical review of (mostly cloud) WAF solutions</a></u><br><b>Knud Højgaard</b><br>'
   
 - time: 10:45 - 11:00
   info: "<u>Break</u>"
   
 - time: 11:00 - 11:45
-  info: "<u><a href="#Francine-Solheim" class="speakers-link" data-toggle="modal">AuraCast: A Multisensory Proof-of-Concept.to Combat Alert Fatigue in Cybersecurity</a></u><br><b>Francine Solheim</b><br>"
+  info: '<u><a href="#Francine-Solheim" class="speakers-link" data-toggle="modal">AuraCast: A Multisensory Proof-of-Concept.to Combat Alert Fatigue in Cybersecurity</a></u><br><b>Francine Solheim</b><br>'
   
 - time: 11:45 - 13:00
   info: "<u>Lunch</u>"
 
 - time: 13:00 - 13:45
-  info: "<u><a href="#Andrei-Mungiu" class="speakers-link" data-toggle="modal">System Partitioning into Zones, To Do or.Not to Do? Realistic Trade-Offs in Segregating Systems in ...</a></u><br><b>Andrei Mungiu</b><br>"
+  info: '<u><a href="#Andrei-Mungiu" class="speakers-link" data-toggle="modal">System Partitioning into Zones, To Do or.Not to Do? Realistic Trade-Offs in Segregating Systems in ...</a></u><br><b>Andrei Mungiu</b><br>'
   
 - time: 13:45 - 14:00
   info: "<u>Break</u>"
 
 - time: 14:00 - 14:45
-  info: "<u><a href="#Michael-Weng" class="speakers-link" data-toggle="modal">Wanna play with OT and Cyber Security? Play with Labshock, then</a></u><br><b>Michael Weng</b><br>"
+  info: '<u><a href="#Michael-Weng" class="speakers-link" data-toggle="modal">Wanna play with OT and Cyber Security? Play with Labshock, then</a></u><br><b>Michael Weng</b><br>'
   
 - time: 14:45 - 15:45
   info: "<u>Networking Session</u>"
