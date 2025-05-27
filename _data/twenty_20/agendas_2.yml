@@ -2,31 +2,31 @@
   info: "<u>Breakfast & Networking</u>"
 
 - time: 09:00 - 09:45
-  info: "<u><a href="#Jack-Fitzsimons" class="speakers-link" data-toggle="modal">Bending the Big Iron: An Introduction to Mainframe Hacking</a></u><br><b>Jack Fitzsimons</b><br>"
+  info: '<u><a href="#Jack-Fitzsimons" class="speakers-link" data-toggle="modal">Bending the Big Iron: An Introduction to Mainframe Hacking</a></u><br><b>Jack Fitzsimons</b><br>'
 
 - time: 09:45 - 10:00
   info: "<u>Break</u>"
   
 - time: 10:00 - 10:45
-  info: "<u><a href="#Bella-Nielsen" class="speakers-link" data-toggle="modal">From secure phone to insecure personalities</a></u><br><b>Bella Nielsen</b><br>"
+  info: '<u><a href="#Bella-Nielsen" class="speakers-link" data-toggle="modal">From secure phone to insecure personalities</a></u><br><b>Bella Nielsen</b><br>'
   
 - time: 10:45 - 11:00
   info: "<u>Break</u>"
 
 - time: 11:00 - 11:45
-  info: "<u><a href="#Martin-Clausen" class="speakers-link" data-toggle="modal">Go-ing Under the Hood: Practical Malware Reversing for Threat Intel</a></u><br><b>Martin Clausen</b><br>"
+  info: '<u><a href="#Martin-Clausen" class="speakers-link" data-toggle="modal">Go-ing Under the Hood: Practical Malware Reversing for Threat Intel</a></u><br><b>Martin Clausen</b><br>'
   
 - time: 11:45 - 13:00
   info: "<u>Lunch</u>"
 
 - time: 13:00 - 13:45
-  info: "<u><a href="#Klaus-Agnoletti" class="speakers-link" data-toggle="modal">Dungeons & Dragons: The security tool you didn't know you needed</a></u><br><b>Klaus Agnoletti</b><br>"
+  info: '<u><a href="#Klaus-Agnoletti" class="speakers-link" data-toggle="modal">Dungeons & Dragons: The security tool you didn't know you needed</a></u><br><b>Klaus Agnoletti</b><br>'
   
 - time: 13:45 - 14:00
   info: "<u>Break</u>"
 
 - time: 14:00 - 14:45
-  info: "<u><a href="#Mark-Steenberg" class="speakers-link" data-toggle="modal">Creating Your Own Command Control Framework</a></u><br><b>Mark Steenberg</b><br>"
+  info: '<u><a href="#Mark-Steenberg" class="speakers-link" data-toggle="modal">Creating Your Own Command Control Framework</a></u><br><b>Mark Steenberg</b><br>'
   
 - time: 14:45 - 15:45
   info: "<u>Networking Session</u>"
