@@ -16,11 +16,20 @@
   topic: "This session will provide a live and partially pre-recorded walkthrough of a threat hunting scenario. We’ll begin by discussing how the initial hunting hypothesis was developed, followed by a demonstration of a custom piece of malware designed to drop LSASS and evade Microsoft Defender.<br>The presentation will then dive into the process of crafting a hunting query, explaining the logic behind it and how it functions. We'll showcase how the query successfully triggers as a detection rule in Defender when the malware is re-executed. To complete the cycle, we’ll also run the same query in a threat hunting context to identify the activity.<br>Due to the time-consuming nature of some steps, select parts of the demo will be pre-recorded to ensure a smooth and focused presentation."
   description: "Hello, I work as a security analyst at Conscia. I have worked in the cyber security industry for 3 years now. I spend my free time cooking, watching movies and shows.<br>I have experience presenting at the OWASP chapter and the Conscia Security Festival, and I’ve also published a blog post on ActiveCountermeasures. In addition, I have created a mini-course on network security monitoring, which is on YouTube."
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Bella Nielsen
+  name: Bella-Nielsen
+  subtitle: Forensics nerd and privacy enthusiast
+  img: bella-nielsen.jpg
+  thumbnail: bella-nielsen.jpg
+  alt: Picture of Bella Nielsen
+  topic: "Ever thought of how much tracking a phone actually has? <br> In this talk we go trough a secure phone, finding out which insecure personalities are behind the creation of it."
+  description: "A young cybersecurity enthusiast that loves playing CTFs and researching random topics in their freetime"
+
+- title: Francine Solheim
+  name: Francine-Solheim
+  subtitle: Cybersecurity Consultant
+  img: francine-solheim.jpg
+  thumbnail: francine-solheim.jpg
+  alt: Picture of Francine Solheim
+  topic: "Security analysts face a constant deluge of alerts, dashboards, and decision-making pressure, leading to cognitive fatigue and missed anomalies. AuraCast is a proof-of-concept system that reimagines network monitoring through multisensory feedback using sound and light to support analyst awareness without adding complexity or screen time.<br>Developed as part of a master's thesis, AuraCast sonifies intrusion detection system alerts and pairs them with ambient IoT-based lighting (via Philips Hue) to create an intuitive, passive alerting environment. The goal? To reduce the cognitive load on analysts and allow faster, more instinctive responses, especially during high-volume alert scenarios.<br>In this session, I present the motivation behind AuraCast, the technical design of the system, and the results from usability testing conducted with both SOC professionals and IT generalists. I explore how auditory and visual modalities can be meaningfully mapped to security events, and how this prototype performed when evaluated against traditional visual-only setups using NASA-TLX cognitive load assessments, response times, and qualitative feedback.<br>I’ll also discuss the practical, unfiltered challenges of building and testing something experimental, from deployment constraints to user scepticism, and reflect on what it would take to bring a concept like this into production in SOC environments.<br>Whether you're interested in human-centred cybersecurity, creative monitoring solutions, or just want to know what happens when intrusion detection meets MIDI and mood lighting, this session offers a unique angle on how we can support the humans behind the screens."
+  description: "I'm a Cybersecurity Consultant with a Master’s degree in Cybersecurity Leadership and a strong technical background. I hold a range of industry certifications, including CompTIA Security+, CySA+, Pentest+, and SecurityX (formerly CASP+), as well as ISC2 SSCP and CC, and Microsoft AZ-500 and SC-300. My work spans vulnerability management, detection engineering, and systems hardening, with a particular interest in practical, scalable solutions for SOC environments. While my thesis involved human testing and cognitive load analysis, my focus has always been on the technical design, implementation, and evaluation of tools that improve detection and reduce noise. I enjoy building things that actually work - and then stress-testing them."
