@@ -2,7 +2,7 @@
   info: "<u>Breakfast & Networking</u>"
 
 - time: 09:00 - 09:45
-  info: "<u>Through the lens of a threat hunter</u><br><b>Avester Fahimipour</b><br>"
+  info: "<u><a href="#Avester-Fahimipour" class="speakers-link" data-toggle="modal">Through the lens of a threat hunter</a></u><br><b>Avester Fahimipour</b><br>"
 
 - time: 09:45 - 10:00
   info: "<u>Break</u>"
