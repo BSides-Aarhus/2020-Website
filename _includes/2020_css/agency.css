@@ -325,8 +325,8 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink {
-        padding: 10px 0;
-        background-color: #3cb371; /*#222;*/
+        padding: 30px 0;
+        background-color: #{{ site.data.template.color.secondary-dark }}
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -487,14 +487,12 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-/*
 #speakers .speakers-item .speakers-caption p {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 100%;
     font-style: italic;
 }
-*/
 
 #speakers * {
     z-index: 2;
