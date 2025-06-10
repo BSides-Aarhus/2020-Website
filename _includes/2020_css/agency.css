@@ -252,7 +252,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand a img {
-	margin-top: -70px
+	margin-top: -70px;
 	width: 150px;
 }
 
