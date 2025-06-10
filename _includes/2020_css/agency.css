@@ -242,9 +242,6 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default {
-    min-height: 100px;
-    margin-bottom: 21px;
-    border: 1px solid transparent
     border-color: transparent;
     background-color: #{{ site.data.template.color.secondary-dark }};
 }
