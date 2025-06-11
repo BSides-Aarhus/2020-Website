@@ -243,12 +243,17 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #3cb371; /*#222;*/
+    background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
+}
+
+.navbar-default a.navbar-brand img {
+	margin-top: -70px;
+	width: 150px;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -290,11 +295,13 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.data.template.color.primary }};
 }
 
+/*
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
+*/
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
@@ -319,11 +326,11 @@ fieldset[disabled] .btn-xl.active {
         -moz-transition: all .3s;
         transition: all .3s;
     }
-
+/*
     .navbar-default .navbar-nav>.active>a {
         border-radius: 3px;
     }
-
+*/
     .navbar-default.navbar-shrink {
         padding: 30px 0;
         background-color: #{{ site.data.template.color.secondary-dark }}
