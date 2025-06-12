@@ -295,13 +295,11 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.data.template.color.primary }};
 }
 
-/*
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
-*/
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
@@ -326,11 +324,11 @@ fieldset[disabled] .btn-xl.active {
         -moz-transition: all .3s;
         transition: all .3s;
     }
-/*
+
     .navbar-default .navbar-nav>.active>a {
         border-radius: 3px;
     }
-*/
+
     .navbar-default.navbar-shrink {
         padding: 30px 0;
         background-color: #{{ site.data.template.color.secondary-dark }}
