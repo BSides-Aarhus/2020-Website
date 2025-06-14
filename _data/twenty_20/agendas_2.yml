@@ -1,33 +1,39 @@
 - time: 8:30 - 09:00
   info: "<u>Breakfast & Networking</u>"
 
-- time: 09:00 - 09:45
+- time: 09:00 - 09:15
+  info: "<u>Shared Welcome - Track 1 Stage</u>"
+
+- time: 09:15 - 10:00
   info: '<u><a href="#Jack-Fitzsimons" class="speakers-link" data-toggle="modal">Bending the Big Iron: An Introduction to Mainframe Hacking</a></u><br><b>Jack Fitzsimons</b><br>'
 
-- time: 09:45 - 10:00
+- time: 10:00 - 10:15
   info: "<u>Break</u>"
   
-- time: 10:00 - 10:45
+- time: 10:15 - 11:00
   info: '<u><a href="#Bella-Nielsen" class="speakers-link" data-toggle="modal">From secure phone to insecure personalities</a></u><br><b>Bella Nielsen</b><br>'
   
-- time: 10:45 - 11:00
+- time: 11:00 - 11:15
   info: "<u>Break</u>"
-
-- time: 11:00 - 11:45
+  
+- time: 11:15 - 12:00
   info: '<u><a href="#Martin-Clausen" class="speakers-link" data-toggle="modal">Go-ing Under the Hood: Practical Malware Reversing for Threat Intel</a></u><br><b>Martin Clausen</b><br>'
   
-- time: 11:45 - 13:00
+- time: 12:00 - 13:15
   info: "<u>Lunch</u>"
 
-- time: 13:00 - 13:45
+- time: 13:15 - 14:00
   info: '<u><a href="#Klaus-Agnoletti" class="speakers-link" data-toggle="modal">Dungeons & Dragons: The security tool you didnt know you needed</a></u><br><b>Klaus Agnoletti</b><br>'
   
-- time: 13:45 - 14:00
+- time: 14:00 - 14:15
   info: "<u>Break</u>"
 
-- time: 14:00 - 14:45
+- time: 14:15 - 15:00
   info: '<u><a href="#Mark-Steenberg" class="speakers-link" data-toggle="modal">Creating Your Own Command Control Framework</a></u><br><b>Mark Steenberg</b><br>'
   
-- time: 14:45 - 15:45
+- time: 15:00 - 16:30
   info: "<u>Networking Session</u>"
+  
+- time: 16:30 - 00:00
+  info: "<u>Afterparty - beers</u>"
   
