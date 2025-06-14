@@ -1,38 +1,39 @@
-- time: 8:30 - 09:00
+- time: 08:30 - 09:00
   info: "<u>Breakfast & Networking</u>"
 
 - time: 09:00 - 09:15
   info: "<u>Shared Welcome - Track 1 Stage</u>"
 
 - time: 09:15 - 10:00
-  info: '<u><a href="#Jack-Fitzsimons" class="speakers-link" data-toggle="modal">Bending the Big Iron: An Introduction to Mainframe Hacking</a></u><br><b>Jack Fitzsimons</b><br>'
+  info: '<u><a href="#Avester-Fahimipour" class="speakers-link" data-toggle="modal">Through the lens of a threat hunter</a></u><br><b>Avester Fahimipour</b><br>'
 
 - time: 10:00 - 10:15
   info: "<u>Break</u>"
   
 - time: 10:15 - 11:00
-  info: '<u><a href="#Bella-Nielsen" class="speakers-link" data-toggle="modal">From secure phone to insecure personalities</a></u><br><b>Bella Nielsen</b><br>'
+  info: '<u><a href="#Knud-Hojgaard" class="speakers-link" data-toggle="modal">From promises to performance: A critical review of (mostly cloud) WAF solutions</a></u><br><b>Knud Højgaard</b><br>'
   
 - time: 11:00 - 11:15
   info: "<u>Break</u>"
   
 - time: 11:15 - 12:00
-  info: '<u><a href="#Martin-Clausen" class="speakers-link" data-toggle="modal">Go-ing Under the Hood: Practical Malware Reversing for Threat Intel</a></u><br><b>Martin Clausen</b><br>'
+  info: '<u><a href="#Francine-Solheim" class="speakers-link" data-toggle="modal">AuraCast: A Multisensory Proof-of-Concept.to Combat Alert Fatigue in Cybersecurity</a></u><br><b>Francine Solheim</b><br>'
   
 - time: 12:00 - 13:15
   info: "<u>Lunch</u>"
 
 - time: 13:15 - 14:00
-  info: '<u><a href="#Klaus-Agnoletti" class="speakers-link" data-toggle="modal">Dungeons & Dragons: The security tool you didnt know you needed</a></u><br><b>Klaus Agnoletti</b><br>'
+  info: '<u><a href="#Andrei-Mungiu" class="speakers-link" data-toggle="modal">System Partitioning into Zones, To Do or.Not to Do? Realistic Trade-Offs in Segregating Systems in ...</a></u><br><b>Andrei Mungiu</b><br>'
   
 - time: 14:00 - 14:15
   info: "<u>Break</u>"
 
 - time: 14:15 - 15:00
-  info: '<u><a href="#Mark-Steenberg" class="speakers-link" data-toggle="modal">Creating Your Own Command Control Framework</a></u><br><b>Mark Steenberg</b><br>'
+  info: '<u><a href="#Michael-Weng" class="speakers-link" data-toggle="modal">Wanna play with OT and Cyber Security? Play with Labshock, then</a></u><br><b>Michael Weng</b><br>'
   
 - time: 15:00 - 16:30
   info: "<u>Networking Session</u>"
   
-- time: 16:30 - 00:00
-  info: "<u>Afterparty - Student bars open</u>"
+- time: 16:30 - ??
+  info: "<u>Afterparty - Bar opens</u>"
+  
